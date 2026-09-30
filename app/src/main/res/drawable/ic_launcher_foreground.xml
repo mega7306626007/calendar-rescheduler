@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- gold calendar page -->
+    <path
+        android:fillColor="#D4A843"
+        android:pathData="M30,34 h48 a6,6 0 0 1 6,6 v44 a6,6 0 0 1 -6,6 h-48 a6,6 0 0 1 -6,-6 v-44 a6,6 0 0 1 6,-6 z" />
+    <!-- deep plum page inset -->
+    <path
+        android:fillColor="#2A1548"
+        android:pathData="M33,46 h42 v38 h-42 z" />
+    <!-- violet lightning bolt -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M60,50 L46,70 h9 L52,82 L66,62 h-9 z" />
+    <!-- gold binder rings -->
+    <path
+        android:fillColor="#F5D67B"
+        android:pathData="M40,30 v10 a3,3 0 0 1 -6,0 v-10 a3,3 0 0 1 6,0 z" />
+    <path
+        android:fillColor="#F5D67B"
+        android:pathData="M74,30 v10 a3,3 0 0 1 -6,0 v-10 a3,3 0 0 1 6,0 z" />
+    <!-- sparkles -->
+    <path
+        android:fillColor="#F5D67B"
+        android:pathData="M20,66 l2,5 5,2 -5,2 -2,5 -2,-5 -5,-2 5,-2 z" />
+    <path
+        android:fillColor="#F5D67B"
+        android:pathData="M88,60 l1.5,4 4,1.5 -4,1.5 -1.5,4 -1.5,-4 -4,-1.5 4,-1.5 z" />
+</vector>

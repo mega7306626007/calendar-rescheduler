@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+/local.properties
+/.idea/
+*.iws
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Press
+secrets.json
+
+# APKs
+*.apk
+*.aab
+
+# Proguard
+proguard/

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calendar Rescheduler</string>
+    <string name="shortcut_new">New task</string>
+    <string name="shortcut_new_long">Create a new task</string>
+    <string name="shortcut_today">Today</string>
+    <string name="shortcut_today_long">Open today\'s plan</string>
+    <string name="shortcut_focus">Focus</string>
+    <string name="shortcut_focus_long">Start a focus session</string>
+</resources>

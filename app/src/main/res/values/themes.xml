@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.CalendarRescheduler" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#7C3AED</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#D4A843</item>
+        <item name="android:windowBackground">#12101C</item>
+        <item name="android:statusBarColor">#180A32</item>
+        <item name="android:navigationBarColor">#12101C</item>
+    </style>
+</resources>
